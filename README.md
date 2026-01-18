@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-[![Will's Github Stats](https://github-readme-stats.vercel.app/api?username=aaron-foster-wallace&text_color=F3F3F3&bg_color=22272E)](https://github.com/AstrOOnauta)
-[![Most Used Programming Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aaron-foster-wallace&layout=compact&text_color=F3F3F3&bg_color=22272E&langs_count=6)](https://github.com/AstrOOnauta)
+[![Will's Github Stats](https://github-readme-stats.vercel.app/api?username=aaron-foster-wallace&text_color=F3F3F3&bg_color=22272E)](https://github.com/aaron-foster-wallace)
+[![Most Used Programming Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aaron-foster-wallace&layout=compact&text_color=F3F3F3&bg_color=22272E&langs_count=6)](https://github.com/aaron-foster-wallace)
 
